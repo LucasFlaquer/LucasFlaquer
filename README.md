@@ -12,3 +12,5 @@ Sou um FullStack Developer apaixonado pelo que faz e que busca sempre aperfeiço
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasFlaquer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-flaquer-555174115)](https://www.linkedin.com/in/lucas-flaquer-555174115) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lucas.flaquer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.flaquer@gmail.com)](mailto:lucas.flaquer@gmail.com)
+
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasflaquer&count_private=true)](https://github.com/LucasFlaquer)
