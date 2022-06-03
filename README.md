@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer apaixonado pelo que faz e que busca sempre aperfeiçoar seus conhecimentos :computer:
 
- :office:  &nbsp; Estou trabalhando na **Certus Software**
+ :office:  &nbsp; Estou trabalhando na **Catho**
  <br/> :purple_heart: &nbsp; Buscando me envolver cada dia mais na comunidade de programadores
  <br/> :blush: &nbsp; Posso te ajudar com Vue.js e Laravel
  <br/> :computer: &nbsp; Minha stack: ReactJS, Larave, Vue.js e Typescript
