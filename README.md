@@ -2,12 +2,12 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer apaixonado pelo que faz e que busca sempre aperfeiçoar seus conhecimentos :computer:
+Sou um Desenvolvedor apaixonado pelo que faz e que busca sempre aperfeiçoar seus conhecimentos :computer:
 
  :office:  &nbsp; Estou trabalhando na **Catho**
  <br/> :purple_heart: &nbsp; Buscando me envolver cada dia mais na comunidade de programadores
- <br/> :blush: &nbsp; Posso te ajudar com Vue.js e Laravel
- <br/> :computer: &nbsp; Minha stack: ReactJS, Larave, Vue.js e Typescript
+ <br/> :blush: &nbsp; Posso te ajudar com React.js, Next.js e Node
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node, Next.js e Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto séries antigas e filmes de ação
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasFlaquer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-flaquer-555174115)](https://www.linkedin.com/in/lucas-flaquer-555174115) 
 | 
